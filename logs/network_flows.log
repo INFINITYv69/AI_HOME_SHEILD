@@ -1,0 +1,7 @@
+[2026-01-18 04:38:21] Captured 16 flows from LocalHost (127.0.0.1)
+[2026-01-18 04:38:59] Captured 0 flows from WiFi Router (192.168.1.1)
+[2026-01-18 04:38:59] Captured 0 flows from WiFi Router (192.168.1.1)
+[2026-01-18 04:39:00] Captured 0 flows from Smart TV (192.168.1.10)
+[2026-01-18 04:39:00] Exported flows to logs/flows_20260118_043900.json
+[2026-01-18 05:31:27] Captured 0 flows from WiFi Router (192.168.1.1)
+[2026-01-18 05:31:42] Captured 0 flows from Laptop (192.168.1.20)

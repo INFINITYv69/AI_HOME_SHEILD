@@ -1,0 +1,26 @@
+{
+  "192.168.1.1": {
+    "device_ip": "192.168.1.1",
+    "device_name": "WiFi Router",
+    "timestamp": "2026-01-18T04:38:59.474687",
+    "capture_duration": 30,
+    "outbound_flows": [],
+    "inbound_flows": [],
+    "protocol_stats": {},
+    "port_stats": {},
+    "total_flows": 0,
+    "suspicious_flows": []
+  },
+  "192.168.1.10": {
+    "device_ip": "192.168.1.10",
+    "device_name": "Smart TV",
+    "timestamp": "2026-01-18T04:39:00.040950",
+    "capture_duration": 30,
+    "outbound_flows": [],
+    "inbound_flows": [],
+    "protocol_stats": {},
+    "port_stats": {},
+    "total_flows": 0,
+    "suspicious_flows": []
+  }
+}

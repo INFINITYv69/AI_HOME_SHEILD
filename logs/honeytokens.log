@@ -1,0 +1,28 @@
+[2026-01-18 03:07:19] Created honeytoken: wifi_passwords.txt (ID: R1Q0SW4N)
+[2026-01-18 03:07:19] Created honeytoken: router_backup.cfg (ID: 9HJYPCOQ)
+[2026-01-18 03:07:19] Created honeytoken: admin_creds.txt (ID: DGZIIJUO)
+[2026-01-18 03:07:19] Created honeytoken: smart_camera_config.ini (ID: TKDIOPA2)
+[2026-01-18 03:07:22] Honeytoken trip detected: wifi_passwords.txt - File accessed (atime)
+[2026-01-18 03:07:22] Honeytoken trip detected: router_backup.cfg - File accessed (atime)
+[2026-01-18 03:07:22] Honeytoken trip detected: admin_creds.txt - File accessed (atime)
+[2026-01-18 03:07:22] Honeytoken trip detected: smart_camera_config.ini - File accessed (atime)
+[2026-01-18 03:08:23] Manual honeytoken trip: R1Q0SW4N
+[2026-01-18 03:09:43] Manual honeytoken trip: 9HJYPCOQ
+[2026-01-18 03:10:17] Manual honeytoken trip: R1Q0SW4N
+[2026-01-18 03:27:59] Honeytoken trip detected: wifi_passwords.txt - File accessed (atime)
+[2026-01-18 03:27:59] Honeytoken trip detected: router_backup.cfg - File accessed (atime)
+[2026-01-18 03:27:59] Honeytoken trip detected: admin_creds.txt - File accessed (atime)
+[2026-01-18 03:27:59] Honeytoken trip detected: smart_camera_config.ini - File accessed (atime)
+[2026-01-18 03:28:14] Manual honeytoken trip: DGZIIJUO
+[2026-01-18 03:43:24] Honeytoken trip detected: wifi_passwords.txt - File accessed (atime)
+[2026-01-18 03:43:24] Honeytoken trip detected: router_backup.cfg - File accessed (atime)
+[2026-01-18 03:43:24] Honeytoken trip detected: admin_creds.txt - File accessed (atime)
+[2026-01-18 03:43:24] Honeytoken trip detected: smart_camera_config.ini - File accessed (atime)
+[2026-01-18 03:43:42] Manual honeytoken trip: DGZIIJUO
+[2026-01-18 04:29:15] Manual honeytoken trip: TKDIOPA2
+[2026-01-18 04:29:20] Manual honeytoken trip: TKDIOPA2
+[2026-01-18 04:29:40] Manual honeytoken trip: TKDIOPA2
+[2026-01-18 04:31:30] Manual honeytoken trip: R1Q0SW4N
+[2026-01-18 04:32:17] Manual honeytoken trip: R1Q0SW4N
+[2026-01-18 04:32:22] Manual honeytoken trip: 9HJYPCOQ
+[2026-01-18 04:34:55] Manual honeytoken trip: R1Q0SW4N
